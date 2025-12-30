@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eyüp Zeki Salihoğlu</h1>
+<h1 align="center">Hi 👋, I'm Sevgi Akyüz</h1>
 <h3 align="center">Management Information Systems Student | IT Intern | Cybersecurity & Backend Developer</h3>
 
 <p align="center">
@@ -33,43 +33,25 @@
   </a>
 </div>
 
----
-
-## 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css&perline=14" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,vite,mysql,postgres,mongodb,sqlite&perline=14" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,pycharm,webstorm,postman,arduino&perline=14" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salihoglueyup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salihoglueyup&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sevgiakyuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sevgiakyuz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salihoglueyup&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevgiakyuz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salihoglueyup/salihoglueyup/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salihoglueyup/salihoglueyup/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/salihoglueyup/salihoglueyup/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sevgiakyuz/salihoglueyup/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sevgiakyuz/salihoglueyup/output/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/salihoglueyup/sevgiakyuz/output/snake.svg">
 </picture>
