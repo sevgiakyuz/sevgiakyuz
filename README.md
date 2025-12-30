@@ -12,7 +12,7 @@
 - 🌱 Learning **Cybersecurity, Penetration Testing & Backend Architecture**
 - 👯 Open to collaborating on **Open Source Python/Security Tools**
 - 💬 Ask me about **Python, Backend Development, SQL & Linux**
-- 📫 Reach me at **eyupzekisalihoglu@gmail.com**
+- 📫 Reach me at ****
 - ⚡ Fun fact: **I break things just to fix them better**
 
 ---
